@@ -1,32 +1,24 @@
 ---
 layout: page
-title: 'Building Blocks'
+title: Building Blocks
 ---
-<p>These are some of the common building blocks I have pullled from my research into this layer of the API space.</p>
-<table width="100%" border="0"><tr>
-<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
-<h2>General Considerations</h2>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<ul>
-<li><strong>Dedicated Branding Page</strong> - Have a single page, dedicated to branding, providing easy access to all of the branding related building blocks, in a single, centralized location. Make it easy to find off of the navigation for the main website, and developer portal area.</li>
-<li><strong>Use of Brand Name</strong> - How should API consumers understand when it comes to using brand names in their tools, services, and any materials they produce to support their work.</li>
-<li><strong>Use of Brand Logo</strong> - How should API consumers understand when it comes to using logos in their tools, services, and any materials they produce to support their work.</li>
-<li><strong>Use of Product Titles</strong> - How should API consumers understand when it comes to using product titles in their tools, services, and any materials they produce to support their work.</li>
-<li><strong>Content Display Requirements</strong> - What are the considerations for how content can be displayed. Any restrictions or considerations for displaying within web and mobile applications.</li>
-<li><strong>Data Display Requirements</strong> - What are the considerations for how data can be displayed. Any restrictions or considerations for displaying within web and mobile applications.</li>
-<li><strong>Image Assets</strong> - What image assets are available to support and encourage branding efforts by API consumers? Could be logos, all the way to banners--anything image related that supports branding.</li>
-<li><strong>Icon Assets</strong> - What image icon assets are available to support and encourage branding efforts by API consumers? Could be logos, all the way to banners--anything image related that supports branding.</li>
-<li><strong>Other Assets</strong> - What other assets are available at your company that you use to help guide internal branding strategies, that maybe you could repurpose, and share with the developer community, helping them be more successful in representing your brand.</li>
-<li><strong>Linking Requirements</strong> - What are your linking requirements? Along with images and other assets, what URLs should be attributed to as part of the process. Make the instructions clear and simple, with all URLs easily available, throughout all assets, and branding related tooling.</li>
-<li><strong>Naming Your Application</strong> - What are the considerations when an API consumers is naming their application that is build on top of an API? Are there any reserved words, or things consumers should be considering?</li>
-<li><strong>Branding Examples</strong> - What are some existing examples of how brand can be used. Are there samples, or actual case studies of existing integrators that can show how branding is done properly, or maybe done improperly.</li>
-<li><strong>Full Style Guide</strong> - Is a full style guide available, using in PDF or HTML format that API consumers can use to understand all branding and style guidelines?</li>
-<li><strong>Give Credit</strong> - Explaining to API consumers that they should give credit where appropriate, and use common sense when it comes to integrations and giving proper credit to value generated via the API.</li>
-<li><strong>Bring Value</strong> - Explaining to API consumers that they should bring value to the platform, and not extract more value than they create. Demonstrating that this balance is needed, to make the API integration relationship work.</li>
-</ul>
-</td>
-</tr>
+<p>These are the common building blocks I have organized as part of this research, organized by category.</p>
+<table width="100%" border="0" cellpadding="2" cellspacing="2">
+  {% for category in site.data.buildingblocks %}
+  <tr>
+    <td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+      <h2>{{ category.category_name }}</h2>
+    </td>
+  </tr>
+  {% for buildingblock in category.building_blocks %}
+  <tr>
+    <td align="left" valign="top">
+      <ul style="padding: 2px 10px 2px 10px;">
+        <li><strong>{{ buildingblock.name }}</strong> - {{ buildingblock.about }}</li>
+      </ul>
+    </td>
+  </tr>
+  {% endfor %}
+  {% endfor %}
 </table>
+<p>I am constantly updating, reording, and evolving these building blocks based upon where the space is going.</p>

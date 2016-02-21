@@ -1,0 +1,382 @@
+[
+	{
+		"category_name": "Overview",
+		"building_blocks": [
+			{
+				"building_block_id": "v4f3aOlDLhaErqixkNMTMXDH2KxJTrVVVV2HwFd1233Ak117",
+				"building_block_category_id": "rQHV8aMY9eLS18FCJYnoK964CNl5ATOA3ty6U3ekTXI117",
+				"name": "Dedicated Branding Page",
+				"about": "Have a single page, dedicated to branding, providing easy access to all of the branding related building blocks, in a single, centralized location. Make it easy to find off of the navigation for the main website, and developer portal area.",
+				"category_id": "255",
+				"category": "Overview",
+				"category_about": "I just have one bucket for the branding area of my research. Like terms of service, and privacy, I am just getting going on this legal side of the API research, and it will evolve with time. There are the main areas of concern for branding at the moment.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png",
+				"category_hex": "#006983",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "qi7tpeVeGBzsJqiZlV7jAHJ6EycrggsNUMsUqtjkc9Q117",
+				"building_block_category_id": "rQHV8aMY9eLS18FCJYnoK964CNl5ATOA3ty6U3ekTXI117",
+				"name": "Give Credit",
+				"about": "Explaining to API consumers that they should give credit where appropriate, and use common sense when it comes to integrations and giving proper credit to value generated via the API.",
+				"category_id": "255",
+				"category": "Overview",
+				"category_about": "I just have one bucket for the branding area of my research. Like terms of service, and privacy, I am just getting going on this legal side of the API research, and it will evolve with time. There are the main areas of concern for branding at the moment.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png",
+				"category_hex": "#006983",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "7JnLgQeLewF5zuBDnxK6YqACjPF116pa41Qj123iapqpVDg117",
+				"building_block_category_id": "rQHV8aMY9eLS18FCJYnoK964CNl5ATOA3ty6U3ekTXI117",
+				"name": "Bring Value",
+				"about": "Explaining to API consumers that they should bring value to the platform, and not extract more value than they create. Demonstrating that this balance is needed, to make the API integration relationship work.",
+				"category_id": "255",
+				"category": "Overview",
+				"category_about": "I just have one bucket for the branding area of my research. Like terms of service, and privacy, I am just getting going on this legal side of the API research, and it will evolve with time. There are the main areas of concern for branding at the moment.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png",
+				"category_hex": "#006983",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "ozRXMCWJqNZmpVM1230J8U4x4JfJVOcgx1nqGBbO1168Brw117",
+				"building_block_category_id": "rQHV8aMY9eLS18FCJYnoK964CNl5ATOA3ty6U3ekTXI117",
+				"name": "Use of Brand Name",
+				"about": "How should API consumers understand when it comes to using brand names in their tools, services, and any materials they produce to support their work.",
+				"category_id": "255",
+				"category": "Overview",
+				"category_about": "I just have one bucket for the branding area of my research. Like terms of service, and privacy, I am just getting going on this legal side of the API research, and it will evolve with time. There are the main areas of concern for branding at the moment.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png",
+				"category_hex": "#006983",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "3huTSFVb0Psx6NOBQyNtsvy123EbIJSgdl7IQ45rLTHiw117",
+				"building_block_category_id": "rQHV8aMY9eLS18FCJYnoK964CNl5ATOA3ty6U3ekTXI117",
+				"name": "Use of Brand Logo",
+				"about": "How should API consumers understand when it comes to using logos in their tools, services, and any materials they produce to support their work.",
+				"category_id": "255",
+				"category": "Overview",
+				"category_about": "I just have one bucket for the branding area of my research. Like terms of service, and privacy, I am just getting going on this legal side of the API research, and it will evolve with time. There are the main areas of concern for branding at the moment.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png",
+				"category_hex": "#006983",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "2FEF8jkVpaZuy2IWbpVcK5gsmCcGsb2xzAUJF8ajmrM117",
+				"building_block_category_id": "rQHV8aMY9eLS18FCJYnoK964CNl5ATOA3ty6U3ekTXI117",
+				"name": "Use of Product Titles",
+				"about": "How should API consumers understand when it comes to using product titles in their tools, services, and any materials they produce to support their work.",
+				"category_id": "255",
+				"category": "Overview",
+				"category_about": "I just have one bucket for the branding area of my research. Like terms of service, and privacy, I am just getting going on this legal side of the API research, and it will evolve with time. There are the main areas of concern for branding at the moment.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png",
+				"category_hex": "#006983",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "i485FJy4T5aNWgAKa09k6c6HggdBGOQ3xkJVUOW9pNI117",
+				"building_block_category_id": "rQHV8aMY9eLS18FCJYnoK964CNl5ATOA3ty6U3ekTXI117",
+				"name": "Naming Your Application",
+				"about": "What are the considerations when an API consumers is naming their application that is build on top of an API? Are there any reserved words, or things consumers should be considering?",
+				"category_id": "255",
+				"category": "Overview",
+				"category_about": "I just have one bucket for the branding area of my research. Like terms of service, and privacy, I am just getting going on this legal side of the API research, and it will evolve with time. There are the main areas of concern for branding at the moment.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png",
+				"category_hex": "#006983",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Assets",
+		"building_blocks": [
+			{
+				"building_block_id": "Fsyg4pvl1236116xIQEbH949KMwQs95IrQ6zUnR3123h0Nkqg117",
+				"building_block_category_id": "BhcHOGE2rH8SU1CxquOo5yQqGb116uGKWhbQchOIwyyOg117",
+				"name": "Image Assets",
+				"about": "What image assets are available to support and encourage branding efforts by API consumers? Could be logos, all the way to banners--anything image related that supports branding.",
+				"category_id": "301",
+				"category": "Assets",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "J2JitpLbPLFdB116urcZeKTRMZw4vN12P63cSb627123ZyY117",
+				"building_block_category_id": "BhcHOGE2rH8SU1CxquOo5yQqGb116uGKWhbQchOIwyyOg117",
+				"name": "Icon Assets",
+				"about": "What image icon assets are available to support and encourage branding efforts by API consumers? Could be logos, all the way to banners--anything image related that supports branding.",
+				"category_id": "301",
+				"category": "Assets",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "K6ZfNtP4m9ToBFr2w1pPFK123elp79kc2WMJoBAfL3EaQ117",
+				"building_block_category_id": "BhcHOGE2rH8SU1CxquOo5yQqGb116uGKWhbQchOIwyyOg117",
+				"name": "Other Assets",
+				"about": "What other assets are available at your company that you use to help guide internal branding strategies, that maybe you could repurpose, and share with the developer community, helping them be more successful in representing your brand.",
+				"category_id": "301",
+				"category": "Assets",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Requirements",
+		"building_blocks": [
+			{
+				"building_block_id": "116AlDMDd2S1VLGWh9tt6L2lSLHrU3Yx50JztjNS0L1GI117",
+				"building_block_category_id": "Bnd116LBLv123bQBOrLBQfe9fM31zjyJCo771HZOygrOnaE117",
+				"name": "Content Display Requirements",
+				"about": "What are the considerations for how content can be displayed. Any restrictions or considerations for displaying within web and mobile applications.",
+				"category_id": "302",
+				"category": "Requirements",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "8pGQgolmZTz4cuHH7G3iQoixwHv116oWloZF4eRdVDAC8117",
+				"building_block_category_id": "Bnd116LBLv123bQBOrLBQfe9fM31zjyJCo771HZOygrOnaE117",
+				"name": "Data Display Requirements",
+				"about": "What are the considerations for how data can be displayed. Any restrictions or considerations for displaying within web and mobile applications.",
+				"category_id": "302",
+				"category": "Requirements",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "VFmBxSTYprl779rboqQ1239ebV5xROtLf1Pd1Gx5RCO9o117",
+				"building_block_category_id": "Bnd116LBLv123bQBOrLBQfe9fM31zjyJCo771HZOygrOnaE117",
+				"name": "Linking Requirements",
+				"about": "What are your linking requirements? Along with images and other assets, what URLs should be attributed to as part of the process. Make the instructions clear and simple, with all URLs easily available, throughout all assets, and branding related tooling.",
+				"category_id": "302",
+				"category": "Requirements",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Guides",
+		"building_blocks": [
+			{
+				"building_block_id": "y116x6psS7CQarpbbrETirOqC0fQKifwAj8z9CZbd5I8E117",
+				"building_block_category_id": "g815j6PNYvNlyqUmTdR2b8cPDr123DSL4nn123fdA2P2rwE117",
+				"name": "Branding Examples",
+				"about": "What are some existing examples of how brand can be used. Are there samples, or actual case studies of existing integrators that can show how branding is done properly, or maybe done improperly.",
+				"category_id": "303",
+				"category": "Guides",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "05wmaGZOL3Vqd49Zv7GfXEwxVh2TQ3m98oW1eQZEpsg117",
+				"building_block_category_id": "g815j6PNYvNlyqUmTdR2b8cPDr123DSL4nn123fdA2P2rwE117",
+				"name": "Full Style Guide",
+				"about": "Is a full style guide available, using in PDF or HTML format that API consumers can use to understand all branding and style guidelines?",
+				"category_id": "303",
+				"category": "Guides",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	}
+]

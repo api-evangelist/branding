@@ -1,2 +1,2 @@
-# API Branding
-This is my API branding research.
+# API Branding Research
+This is my API branding research

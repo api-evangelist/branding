@@ -1,47 +1,4 @@
 ---
-- curated_id: 9824142b4fc23d280740f14252098fc6
-  item_date: "2012-07-02 12:12:45"
-  title: 'For Twitter-Owned Apps and Sites, a Cacophony of Confusion '
-  url: http://bits.blogs.nytimes.com/2012/07/02/for-twitter-owned-apps-and-sites-a-cacophony-of-confusion/
-  domain: bits.blogs.nytimes.com
-  image: ""
-- curated_id: 99baca3b5f1df78626b28836c1d0cdd8
-  item_date: "2013-04-16 00:00:00"
-  title: New GitHub Logo
-  url: https://github.com/blog/1472-new-github-logo
-  domain: github.com
-  image: ""
-- curated_id: eb68f42d11afa8e922aaaddaa99e725c
-  item_date: "2013-05-24 00:00:00"
-  title: 'Mention API: Know Who?s Saying What About Your Brand'
-  url: http://www.programmableweb.com/2013/05/24/mention-api-know-whos-saying-what-about-your-brand/
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 986d899f39d93a8fab5c92030ffaafb8
-  item_date: "2013-06-06 00:00:00"
-  title: WSO2 and API Evangelist to Co-Present Your API Branding Strategy Webinar
-    on June 13
-  url: http://www.programmableweb.com/news/wso2-and-api-evangelist-to-co-present-your-api-branding-strategy-webinar-june-13/2013/06/06
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: f02ac07452160827a3086d72ae20f8e2
-  item_date: "2013-06-25 11:48:33"
-  title: Your API Branding Strategy - Thursday, June 13, 2013  | WSO2 Inc
-  url: http://wso2.com/library/webinars/2013/06/your-api-branding-strategy
-  domain: wso2.com
-  image: ""
-- curated_id: 9353f0e3c2171a2f23a6305bc99f3e2a
-  item_date: "2013-07-11 00:00:00"
-  title: 'Guest Post: Chris Haddad on API Branding for Improved Community Reach'
-  url: http://ostatic.com/blog/guest-post-chris-haddad-on-api-branding-for-improved-community-reach
-  domain: ostatic.com
-  image: ""
-- curated_id: 4a8f89ea5fff20992dfc5993e4f78726
-  item_date: "2014-09-26 00:00:00"
-  title: 'API Brand : Stand out from the Crowd '
-  url: http://blog.cobia.net/cobiacomm/2013/05/22/api-brand-stand-out-from-the-crowd/
-  domain: blog.cobia.net
-  image: ""
 - curated_id: a70b0e83bce3e1b08f175d1d096bd03d
   item_date: "2015-07-02 00:00:00"
   title: Branding in the Reseller Control Panel
@@ -91,5 +48,11 @@
   title: Littergram allowed to keep name after Instagram complaint
   url: http://www.bbc.co.uk/news/uk-england-kent-37920291
   domain: www.bbc.co.uk
+  image: ""
+- curated_id: 7f850b88f7d8b2909b97d1ad0b9518ef
+  item_date: "2017-01-09 00:00:00"
+  title: Nokia gets Siri-ous about smartphones as it trademarks new AI assistant Viki
+  url: http://thenextweb.com/mobile/2017/01/09/nokia-ai-assistant-viki/
+  domain: thenextweb.com
   image: ""
 ...

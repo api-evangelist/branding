@@ -1,137 +1,165 @@
-- building_block_id: give-credit
-  type: Branding
-  category: Overview
-  name: Give Credit
-  description: >-
-    Explaining to API consumers that they should give credit where appropriate,
-    and use common sense when it comes to integrations and giving proper credit
-    to value generated via the API.
-  image: ''
-  tags: Branding
-- building_block_id: bring-value
-  type: Branding
-  category: Overview
-  name: Bring Value
-  description: >-
-    Explaining to API consumers that they should bring value to the platform,
-    and not extract more value than they create. Demonstrating that this balance
-    is needed, to make the API integration relationship work.
-  image: ''
-  tags: Branding
-- building_block_id: use-of-brand-name
-  type: Branding
-  category: Overview
-  name: Use of Brand Name
-  description: >-
-    How should API consumers understand when it comes to using brand names in
-    their tools, services, and any materials they produce to support their work.
-  image: ''
-  tags: Branding
-- building_block_id: use-of-brand-logo
-  type: Branding
-  category: Overview
-  name: Use of Brand Logo
-  description: >-
-    How should API consumers understand when it comes to using logos in their
-    tools, services, and any materials they produce to support their work.
-  image: ''
-  tags: Branding
-- building_block_id: use-of-product-titles
-  type: Branding
-  category: Overview
-  name: Use of Product Titles
-  description: >-
-    How should API consumers understand when it comes to using product titles in
-    their tools, services, and any materials they produce to support their work.
-  image: ''
-  tags: Branding
-- building_block_id: naming-your-application
-  type: Branding
-  category: Overview
-  name: Naming Your Application
-  description: >-
-    What are the considerations when an API consumers is naming their
-    application that is build on top of an API? Are there any reserved words, or
-    things consumers should be considering?
-  image: ''
-  tags: Branding
-- building_block_id: image-assets
-  type: Branding
-  category: Assets
-  name: Image Assets
-  description: >-
-    What image assets are available to support and encourage branding efforts by
-    API consumers? Could be logos, all the way to banners--anything image
-    related that supports branding.
-  image: ''
-  tags: Branding
-- building_block_id: icon-assets
-  type: Branding
-  category: Assets
-  name: Icon Assets
-  description: >-
-    What image icon assets are available to support and encourage branding
-    efforts by API consumers? Could be logos, all the way to banners--anything
-    image related that supports branding.
-  image: ''
-  tags: Branding
-- building_block_id: other-assets
-  type: Branding
-  category: Assets
-  name: Other Assets
-  description: >-
-    What other assets are available at your company that you use to help guide
-    internal branding strategies, that maybe you could repurpose, and share with
-    the developer community, helping them be more successful in representing
-    your brand.
-  image: ''
-  tags: Branding
-- building_block_id: content-display-requirements
-  type: Branding
-  category: Requirements
-  name: Content Display Requirements
-  description: >-
-    What are the considerations for how content can be displayed. Any
-    restrictions or considerations for displaying within web and mobile
-    applications.
-  image: ''
-  tags: Branding
-- building_block_id: data-display-requirements
-  type: Branding
-  category: Requirements
-  name: Data Display Requirements
-  description: >-
-    What are the considerations for how data can be displayed. Any restrictions
-    or considerations for displaying within web and mobile applications.
-  image: ''
-  tags: Branding
-- building_block_id: linking-requirements
-  type: Branding
-  category: Requirements
-  name: Linking Requirements
-  description: >-
-    What are your linking requirements? Along with images and other assets, what
-    URLs should be attributed to as part of the process. Make the instructions
-    clear and simple, with all URLs easily available, throughout all assets, and
-    branding related tooling.
-  image: ''
-  tags: Branding
-- building_block_id: branding-examples
-  type: Branding
-  category: Guides
-  name: Branding Examples
-  description: >-
-    What are some existing examples of how brand can be used. Are there samples,
-    or actual case studies of existing integrators that can show how branding is
-    done properly, or maybe done improperly.
-  image: ''
-  tags: Branding
-- building_block_id: full-style-guide
-  type: Branding
-  category: Guides
-  name: Full Style Guide
-  description: >-
-    Is a full style guide available, using in PDF or HTML format that API
-    consumers can use to understand all branding and style guidelines?
-  image: ''
-  tags: Branding
+- building_block_id: web-concepts
+  type: Definitions
+  category: Formats
+  name: Web Concepts
+  descripion: >-
+    APIs are built on the web, and there are numerous web concepts in play that
+    should be considered as part of the API design process.
+  logo: ''
+  tags: Definitions
+- building_block_id: specification
+  type: Definitions
+  category: Formats
+  name: Specification
+  descripion: >-
+    The root specification for the API definition format, providing a base set
+    of rules for all services and tools that employ the spec.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: schema
+  type: Definitions
+  category: Formats
+  name: Schema
+  descripion: >-
+    A representation of data model, used as part of an API request, or response,
+    usually in JSON, but increasingly YAML, and Markdown are also used.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: generator
+  type: Definitions
+  category: Tooling
+  name: Generator
+  descripion: >-
+    Generating an API definition format from an existing system or platform,
+    outputting the portable machine readable format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-generate.png
+  tags: Definitions
+- building_block_id: parser
+  type: Definitions
+  category: Tooling
+  name: Parser
+  descripion: >-
+    Parses a machine readable API definition and makes ready for use in specific
+    language, structure, or platform.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-parse.png
+  tags: Definitions
+- building_block_id: validator
+  type: Definitions
+  category: Tooling
+  name: Validator
+  descripion: >-
+    Validates an API definition against its formal specification and schema,
+    producing a valid or invalid response, with as much detail as possible.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-valid.png
+  tags: Definitions
+- building_block_id: converter
+  type: Definitions
+  category: Tooling
+  name: Converter
+  descripion: >-
+    The conversion of an API definition from one format into another, allowing
+    designers to share API definitions in any format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conversion.png
+  tags: Definitions
+- building_block_id: commandline
+  type: Definitions
+  category: Tooling
+  name: Command-Line
+  descripion: The usage of machine readable API definitions at the command line.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: powershell
+  type: Definitions
+  category: Tooling
+  name: Powershell
+  descripion: The usage of machine readable API definitions via the powershell interface.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: aggregator
+  type: Definitions
+  category: Tooling
+  name: Aggregator
+  descripion: Aggregation of APIs using a machine readable API definition format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrow-aggregate.png
+  tags: Definitions
+- building_block_id: translator
+  type: Definitions
+  category: Tooling
+  name: Translator
+  descripion: >-
+    Being able to translate an API definition format from one format to another,
+    either manually or automatically.
+  logo: ''
+  tags: Definitions
+- building_block_id: merging
+  type: Definitions
+  category: Tooling
+  name: Merging
+  descripion: >-
+    Tooling or other APIs that provide for the merging of common API definition
+    formats, allowing the granularity of what elements get merged, or do not get
+    merged. Ideally, this is an API, as well as simple web-based or desktop
+    tooling for API providers and consumers.
+  logo: ''
+  tags: Definitions
+- building_block_id: diff
+  type: Definitions
+  category: Tooling
+  name: Diff
+  descripion: >-
+    Providing side by side comparison of two API definitions, programmatically
+    and visually helping identify between two API definitions. This allows for
+    API architects, designers, and consumers to understand the completeness of
+    two definitions, in relation to each other.
+  logo: ''
+  tags: Definitions
+- building_block_id: editors
+  type: Definitions
+  category: Environment
+  name: Editors
+  descripion: >-
+    API definition editor, allowing for the creation, import, and export of API
+    definition formats, providing a simple, IDE like API editing experience.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: ide-plugin
+  type: Definitions
+  category: Environment
+  name: IDE Plugin
+  descripion: >-
+    Providing integration with existing integrated development environments
+    (IDE), giving developers API discovery, documentation, and integration
+    tooling within the IDE.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: forms
+  type: Definitions
+  category: Environment
+  name: Forms
+  descripion: >-
+    Dynamically generating an HTML form from an API definition, allow for the
+    structure, and handling to be driven by an API definition.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forms.png
+  tags: Definitions
+- building_block_id: github
+  type: Definitions
+  category: Environment
+  name: GIthub
+  descripion: >-
+    Allowing for the import, publishing, and syncing of API definitions and
+    schemas to Github for forking, and management using the social coding
+    platform.
+  logo: ''
+  tags: Definitions
